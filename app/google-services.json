@@ -1,0 +1,30 @@
+
+{
+  "project_info": {
+    "project_number": "419091327753",
+    "project_id": "safereach-1c28a",
+    "storage_bucket": "safereach-1c28a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419091327753:android:ca0060cd7e16e1fcc4c1d8",
+        "android_client_info": {
+          "package_name": "com.example.safereach"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5pX5kB6vpHkwKkfVsuI-0A7IaSavZUkM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
